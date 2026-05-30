@@ -5,8 +5,8 @@
 ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🌐 Live Website
-**URL:** [https://deepakmajhee.com](https://deepak.com)
+## 🌐 Live Portfolio website
+**URL:** [ https://portfolio-of-deepak.web.app/]( https://portfolio-of-deepak.web.app/)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
@@ -147,11 +147,10 @@ npm run deploy
 
 ### Meta Tags in `index.html`
 ```html
-<title>Deepak Majhee | Tech Entrepreneur | Founder & CEO of AediaX</title>
-<meta name="description" content="Deepak Majhee is a Tech Entrepreneur, Software Engineer, and Founder & CEO of AediaX Tech Private Limited." />
-<meta property="og:title" content="Deepak Majhee | Founder & CEO of AediaX" />
+<title>Deepak Majhee</title>
+<meta name="description" content="Deepak Majhee is a  Software Engineer, and Full-stack web devloper." />
+<meta property="og:title" content="Deepak Majhee" />
 <meta property="og:url" content="https://deepakmajhee.com" />
-<meta property="og:image" content="https://deepakmajhee.com/og-image.png" />
 ```
 
 ### XML Sitemap Generation
@@ -205,8 +204,8 @@ npm run submit:sitemap
 ```markdown
 - **Portfolio:** [https://portfolio-of-deepak.web.app/](https://portfolio-of-deepak.web.app/)
 - **GitHub:** [https://github.com/DEEPAKMAJHEE](https://github.com/DEEPAKMAJHEE)
-- **LinkedIn:** [https://linkedin.com/in/deepakbhuyan](https://linkedin.com/in/deepakbhuyan)
-- **Email:** deepakbhuyanone@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/deepak-majhee-744a79355](https://www.linkedin.com/in/deepak-majhee-744a79355)
+- **Email:** deepakmajhee36@gmail.com
 ```
 
 
@@ -237,7 +236,6 @@ For any queries or collaborations:
 
 ```yaml
 Name: Deepak Majhee
-Role: Founder & CEO, AediaX Tech Private Limited
 Email: deepakmajhee36@gmail.com
 Official: deepakmajhee36@gmail.com
 Phone: +91 7750068859 (WhatsApp)
