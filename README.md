@@ -36,7 +36,7 @@
 ```javascript
 {
   "hosting": "Firebase Hosting",
-  "domain": "deepak.aediax.com",
+  "domain": "deepakmajhee.com",
   "ssl": "Automatic by Firebase",
   "cdn": "Firebase CDN",
   "build-tool": "Create React App"
