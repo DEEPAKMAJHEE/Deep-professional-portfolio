@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🌐 Live Portfolio website
-**URL:** [ https://portfolio-of-deepak.web.app/]( https://portfolio-of-deepak.web.app/)
+**URL:** [https://portfolio-deepak-2861b.web.app/](https://portfolio-deepak-2861b.web.app/)
 
 ## 📱 Website Pages
 - **Home:** `/` - Landing page with introduction
@@ -202,7 +202,7 @@ npm run submit:sitemap
 
 ### Personal Links
 ```markdown
-- **Portfolio:** [https://portfolio-of-deepak.web.app/](https://portfolio-of-deepak.web.app/)
+- **Portfolio:** [https://portfolio-deepak-2861b.web.app/](https://portfolio-deepak-2861b.web.app/)
 - **GitHub:** [https://github.com/DEEPAKMAJHEE](https://github.com/DEEPAKMAJHEE)
 - **LinkedIn:** [https://www.linkedin.com/in/deepak-majhee-744a79355](https://www.linkedin.com/in/deepak-majhee-744a79355)
 - **Email:** deepakmajhee36@gmail.com
